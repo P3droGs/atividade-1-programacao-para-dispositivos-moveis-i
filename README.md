@@ -5,8 +5,9 @@ Programação para Dispositivos Móveis I – Prof. Arley – Fatec
 
 ## Integrantes
 
-- NOME COMPLETO DO INTEGRANTE 1
-- NOME COMPLETO DO INTEGRANTE 2 (se for em dupla)
+- Pedro Henrique Bernardo Barbosa
+- Eduardo Machado
+
 
 ## O que o app faz
 
